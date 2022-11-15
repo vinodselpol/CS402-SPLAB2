@@ -1,4 +1,4 @@
-# CS-402-SP-Lab1
+# CS-402-SP-Lab2
 
 ### Below are the steps to run the source file (in terminal):
  `gcc -c readfile.c`
