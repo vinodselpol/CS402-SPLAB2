@@ -15,7 +15,6 @@ struct employee
 };
 struct employee db[1024];
 int total_employees = 0;
-//char term;
 
 //used to print out the DB
 void PrintDB (struct employee emp[], int total_emp)
